@@ -1,5 +1,14 @@
 ##  EvenSteven
-is an open-source expense splitting app built using the Beeware framework. It offers a seamless and fair way for groups to divide expenses, ensuring that everyone pays their fair share without any hassle. With EvenSteven, you can easily create groups, add expenses, and split bills with friends, roommates, or colleagues. The app is designed to promote transparency and equity in financial transactions, making it the ideal solution for managing shared expenses in any setting. Join us in building a community-driven platform that simplifies the process of splitting bills and promotes financial harmony among friends.
+`Even Steven is even with his friends thanks to this app!`
+
+EvenSteven is an open-source expense splitting app built using the Beeware framework. It offers a seamless and fair way for groups to divide expenses, ensuring that everyone pays their fair share without any hassle. 
+With EvenSteven, you can easily create groups, add expenses, and split bills with friends, roommates, or colleagues. 
+The app is designed to promote transparency and equity in financial transactions, making it the ideal solution for managing shared expenses in any setting. 
+Join us in building a community-driven platform that simplifies the process of splitting bills and promotes financial harmony among friends.
+
+## Preview
+
+![Image 1](./images/1.jpg) ![Image 2](./images/2.jpg)
 
 ## Installation
 
@@ -11,5 +20,6 @@ is an open-source expense splitting app built using the Beeware framework. It of
     ```
 2. Build for Android
     ``` bash
+    briefcase create android
     briefcase build android
     ``` 
