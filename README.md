@@ -8,7 +8,7 @@ Join us in building a community-driven platform that simplifies the process of s
 
 ## Preview
 
-![Image 1](./images/1.jpg) ![Image 2](./images/2.jpg)
+![Image 1](./images/users.png?raw=true) ![Image 2](./images/transactions.png?raw=true)
 
 ## Installation
 
