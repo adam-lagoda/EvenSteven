@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.18
+Name: evensteven
+Formal-Name: EvenSteven
+App-ID: com.example.evensteven
+Version: 0.0.1
+Home-page: https://github.com/adam-lagoda/EvenSteven
+Download-URL: https://github.com/adam-lagoda/EvenSteven
+Author: Adam Lagoda
+Author-email: adam.lagoda.w@gmail.com
+Summary: An open-source expense splitting app built with Beeware for seamless and equitable bill division among groups, promoting financial transparency and harmony.
