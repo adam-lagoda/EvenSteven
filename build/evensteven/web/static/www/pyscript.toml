@@ -1,0 +1,13 @@
+name = "EvenSteven"
+description = "An open-source expense splitting app built with Beeware for seamless and equitable bill division among groups, promoting financial transparency and harmony."
+version = "0.0.1"
+terminal = false
+packages = [
+    "/static/wheels/evensteven-0.0.1-py3-none-any.whl",
+    "/static/wheels/toga_core-0.4.4-py3-none-any.whl",
+    "/static/wheels/toga_web-0.4.4-py3-none-any.whl",
+    "/static/wheels/travertino-0.3.0-py3-none-any.whl",
+]
+
+[splashscreen]
+autoclose = true
